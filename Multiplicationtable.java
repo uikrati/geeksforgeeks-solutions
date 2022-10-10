@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class table {
+public class Multiplicationtable {
     public static void main(String[] args) {
         class Solution {
             static ArrayList<Integer> getTable(int N) {
